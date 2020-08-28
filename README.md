@@ -1,1 +1,3 @@
-js-jq-ajax-api-musica
+<h1>Live Preview</h1>
+
+<img src="img/preview.gif" >
