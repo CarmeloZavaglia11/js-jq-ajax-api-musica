@@ -74,6 +74,13 @@ header img {
     height: 360px;
     background: rgb(46, 58, 70);
     text-align: center;
+    transition: transform 0.2s ease-in-out;
+}
+
+.cd:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px #000;
+    cursor: pointer;
 }
 
 .cd img {
